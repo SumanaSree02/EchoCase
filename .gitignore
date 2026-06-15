@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Database
+*.db
+
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/
+echo_case_faiss.index
+echo_case_texts.pkl
+complaints.csv
+rag_ready_data.csv
+*.db
